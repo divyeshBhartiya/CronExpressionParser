@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CronExpressionParserCLI", "CronExpressionParser.CLI\CronExpressionParserCLI.csproj", "{A8617D63-48BC-4059-BB90-934D7226A4CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CronExpressionParserTests", "CronExpressionParserTests\CronExpressionParserTests.csproj", "{756A998A-F6C4-42B3-8F20-4447DA47B4EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8617D63-48BC-4059-BB90-934D7226A4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8617D63-48BC-4059-BB90-934D7226A4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8617D63-48BC-4059-BB90-934D7226A4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8617D63-48BC-4059-BB90-934D7226A4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756A998A-F6C4-42B3-8F20-4447DA47B4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756A998A-F6C4-42B3-8F20-4447DA47B4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756A998A-F6C4-42B3-8F20-4447DA47B4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756A998A-F6C4-42B3-8F20-4447DA47B4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5063CA71-B4B3-4D20-8267-FD9274B0A422}
+	EndGlobalSection
+EndGlobal
