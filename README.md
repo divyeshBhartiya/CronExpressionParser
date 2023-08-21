@@ -7,6 +7,8 @@ For environments other than windows, you can use tools like **WINE**.
 To run the EXE, go to any command prompt and navigate to the folder/directory containing the EXE and run the following command:
 
 _**CronExpressionParserCLI.exe */15 0 1,15 * 1-5 /usr/bin/find**_
+
+
 Should yield the following output:
 ![image](https://github.com/divyeshBhartiya/CronExpressionParser/assets/16538471/78643bd5-5863-4e9e-a408-70fe3fbde961)
 
